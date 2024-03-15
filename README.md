@@ -20,3 +20,11 @@
 </div>
 
 ###
+
+<h2 align="left">Live Demo</h2>
+
+###
+
+<p align="left"><a href="https://rexoos.github.io/math_kido_project">Click here to see the live demo</p>
+
+###
