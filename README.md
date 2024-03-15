@@ -28,3 +28,12 @@
 <p align="left"><a href="https://rexoos.github.io/math_kido_project">Click here to see the live demo</p>
 
 ###
+
+<h2 align="left">Team</h2>
+
+###
+
+<img height="200x" src="https://github.com/rexoos/math_kido_project/blob/main/images/math_kido_qr.jpg?raw=true">
+
+###
+
