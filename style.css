@@ -877,3 +877,19 @@ header {
 	text-align: center;
 	padding: 30px 0;
 }
+
+.copyy {
+	display: flex;
+	justify-content: center; /* Aligns items horizontally in the center */
+	align-items: center; /* Aligns items vertically in the center */
+	text-align: center; /* Aligns text within the container */
+  }
+  
+  .qr-code {
+	margin-left: 20px; /* Add some space between text and QR code */
+  }
+
+  .qr-code img {
+	width: 100px; /* Adjust the width according to your preference */
+	height: auto; /* Maintain aspect ratio */
+  }
